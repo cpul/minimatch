@@ -1,1 +1,2 @@
 # this is your new CODEOWNERS file
+lib/foo\ bar.js @cpul
