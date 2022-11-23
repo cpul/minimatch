@@ -1,2 +1,6 @@
 # this is your new CODEOWNERS file
 lib/foo\ bar.js @cpul
+/.github/* @cpul
+/lib/foo\ bar.js @cpul
+/lib/foo.js @cpul
+/lib/README.md @cpul
