@@ -4,7 +4,6 @@ metadata:
   name: minimatch
   annotations:
     github.com/project-slug: cpul/minimatch
-    github.com/project-slug: cpul/minimatch2
 spec:
   type: library
   lifecycle: unknown
